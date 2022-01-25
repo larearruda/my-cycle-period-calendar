@@ -1,1 +1,1 @@
-# my-cicle-period-calendar
+# My Cycle - Period Calendar
